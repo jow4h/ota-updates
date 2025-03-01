@@ -1,6 +1,7 @@
 Derpfest 15.1
 
 Build Date:28/02/2025
+-Flickering fixed (30hz bug)
 -Update blobs to OS2.0.100.0.VNLMIXM
 -And more...
 
