@@ -1,4 +1,8 @@
 Derpfest 15.1
+Build Date:18/03/2025
+-WPA3 fixed
+-Dolby added
+-Thermal Profile On/Off Added
 
 Build Date:28/02/2025
 -Flickering fixed (30hz bug)
